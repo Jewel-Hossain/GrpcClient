@@ -1,0 +1,2 @@
+obj\Debug\net7.0\Protos/City.cs \
+obj\Debug\net7.0\Protos/CityGrpc.cs: Protos/city.proto

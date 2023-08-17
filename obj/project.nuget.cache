@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVagZ066XpGWF+becKIah1HBrTtDB1oMFlgneallUIpx3V4JPh+mJabwwo9x8jxT8TcwXndVLLgfzqak2r6hNQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\xEm\\Desktop\\gRPC\\ServiceB\\ServiceB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xEm\\.nuget\\packages\\google.protobuf\\4.0.0-rc2\\google.protobuf.4.0.0-rc2.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\grpc.core.api\\2.55.0\\grpc.core.api.2.55.0.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\grpc.net.client\\2.55.0\\grpc.net.client.2.55.0.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\grpc.net.common\\2.55.0\\grpc.net.common.2.55.0.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\grpc.tools\\2.57.0\\grpc.tools.2.57.0.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\xEm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
